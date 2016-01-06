@@ -1,17 +1,14 @@
-h2.intro{
+.intro {
   color: grey;
   background-color: yellow;
-  font-size: 201%;
   font-style: italic;
-}
-
-p.intro{
   font-family: fantasy;
-  color: brown;
-}
-
-img.intro{
-  text-align: center;
   width: 75%;
   height: auto;
+}
+
+.intro img {
+
+    width: 75%;
+    height: auto;
 }
